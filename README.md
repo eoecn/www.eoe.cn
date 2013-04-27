@@ -24,8 +24,8 @@ www.eoe.cn
 为了节省大家的时间，我这里提供一个可以参考的提交issue的模板
 
 ```
-提交信息的流程：
-首次，哪个产品，eoeBlog、eoeAndroid、eoe客户端等；
-其次，issue的类别，是bug、需求、还是建议,可以直接通过创建issue的时候选择tag标识；
+提交信息的参考模板：
+首次，哪个产品，eoeBlog、eoeAndroid、eoeWiki等；
+其次，issue的类别，是bug、需求、还是建议；
 最后，才是具体的问题描述，请尽可能的描述清楚，比如截图或日志信息等。
 ```
